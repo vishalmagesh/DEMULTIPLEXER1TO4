@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "Test_DeMUX_behav" "xil_defaultlib.Test_DeMUX" "xil_defaultlib.glbl" -log "elaborate.log" 
